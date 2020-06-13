@@ -83,10 +83,6 @@
     
 More result frames are in output folder
 
-## Idea Credits:
-
-   [Landing.ai](https://landing.ai/landing-ai-creates-an-ai-tool-to-help-customers-monitor-social-distancing-in-the-workplace/)
-   
 ## References:
 
    Yolov3 object detection : https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
